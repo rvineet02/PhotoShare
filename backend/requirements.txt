@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+flask-mysql
+Flask-SQLAlchemy
+requests
+Werkzeug
+python-dotenv==0.19.2
+flask-cors
+cryptography
